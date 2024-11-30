@@ -1,4 +1,4 @@
-# Duplicate File Cleaner
+# synology-duplicate-cleaner
 
 用于 Synology NAS 的重复文件处理工具。自动检测和安全删除重复文件，保留指定目录下的文件或最新的文件。
 
@@ -49,4 +49,3 @@ MIT
 
 ## ChangeLog
 2024-11-30 新建
-
